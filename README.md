@@ -1,1 +1,4 @@
-# handshake-app
+Handshake:
+
+MySQL
+State (No Redux)
